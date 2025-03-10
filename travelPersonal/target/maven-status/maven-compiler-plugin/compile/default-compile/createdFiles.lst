@@ -1,0 +1,14 @@
+com\shami\travel_advisor\config\CustomizedUserDetailService.class
+com\shami\travel_advisor\hotel\HotelController.class
+com\shami\travel_advisor\city\CityController.class
+com\shami\travel_advisor\hotel\Hotel.class
+com\shami\travel_advisor\TravelAdviserApplication.class
+com\shami\travel_advisor\TravelController.class
+com\shami\travel_advisor\city\CityService.class
+com\shami\travel_advisor\hotel\HotelService.class
+com\shami\travel_advisor\city\City.class
+com\shami\travel_advisor\hotel\HotelServiceImplementor.class
+com\shami\travel_advisor\city\CityServiceImplementor.class
+com\shami\travel_advisor\config\SecurityConfig.class
+com\shami\travel_advisor\hotel\HotelRepository.class
+com\shami\travel_advisor\city\CityRepository.class
