@@ -17,7 +17,7 @@ import java.time.LocalTime;
 public class Hotel {
 
     @Id // Primary Key
-//    @GeneratedValue(strategy = GenerationType.UUID)
+    //   @GeneratedValue(strategy = GenerationType.UUID)
     private Integer id;
     private String name;
     private String location;
